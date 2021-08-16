@@ -1,0 +1,1 @@
+unzip Pods\MobileVLCKit\MobileVLCKit.xcframework\ios-arm64_i386_x86_64-simulator\MobileVLCKit.framework\MobileVLCKit.zip
