@@ -1,0 +1,6 @@
+framework module Pods_TaskBox {
+  umbrella header "Pods-TaskBox-umbrella.h"
+
+  export *
+  module * { export * }
+}

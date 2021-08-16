@@ -1,0 +1,6 @@
+framework module Pods_TaskBoxTests {
+  umbrella header "Pods-TaskBoxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

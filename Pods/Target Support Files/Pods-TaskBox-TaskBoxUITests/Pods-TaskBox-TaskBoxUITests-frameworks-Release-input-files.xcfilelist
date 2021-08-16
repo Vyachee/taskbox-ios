@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-TaskBox-TaskBoxUITests/Pods-TaskBox-TaskBoxUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SwiftUIPager/SwiftUIPager.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/MobileVLCKit/MobileVLCKit.framework/MobileVLCKit

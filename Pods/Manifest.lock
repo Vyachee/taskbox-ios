@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.3)
+  - MobileVLCKit (3.3.16.3)
+  - SwiftUIPager (2.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - MobileVLCKit (~> 3.3.16.3)
+  - SwiftUIPager
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MobileVLCKit
+    - SwiftUIPager
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  MobileVLCKit: 2b408a9c5cc327353afab418fafbc942780b248a
+  SwiftUIPager: b7f0280c679285c7c9cf98d3593696962c15d107
+
+PODFILE CHECKSUM: 3d7b5c1b8734f8019c9cd41b275805752b866158
+
+COCOAPODS: 1.10.1
